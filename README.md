@@ -1,0 +1,3 @@
+# TikApp
+This is just examole code of popular IOS app TikTok
+in process.....
