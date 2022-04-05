@@ -1,3 +1,3 @@
 # TikApp
-This is just examole code of popular IOS app TikTok
+This is just example code of popular IOS app TikTok
 in process.....
