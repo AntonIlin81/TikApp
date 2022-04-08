@@ -6,6 +6,8 @@ use_frameworks!
 
     pod  'Firebase'
     pod  'Firebase/Crashlytics'  
+    pod  'SDWebImage'
+pod  'Appirater'
 
 
 end
